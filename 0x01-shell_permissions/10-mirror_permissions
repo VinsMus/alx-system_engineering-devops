@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive 664 hello
+chmod --recursive 664 /alx-system_engineering-devops/0x01-shell_permissions
