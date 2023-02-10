@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 0000
+chmod --recursive 664 hello
